@@ -1,0 +1,28 @@
+header{
+    background-color: #0A0708;
+    color:#fff;
+    padding:20px 0;
+}
+
+.main-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.links-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap:30px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.logo-wrap{
+    font-size: 30px;
+    font-family: "Playfair Display", serif;
+}
+
+/* 27530688188006406 */

@@ -1,0 +1,24 @@
+.job-listings{
+    background-color: #000;
+    padding-top: 60px;
+}
+
+.main-wrap{
+    display: flex;
+    justify-content:space-between;
+    align-items: top;
+    gap:30px
+}
+
+.left-wrap{
+    width: 300px;
+}
+
+.right-wrap{
+    width: calc(100% - 300px);
+}
+
+.right-wrap .title{
+    color:#fff;
+    font-size: 20px;
+}
